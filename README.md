@@ -1,3 +1,7 @@
+## Deprecation notice
+
+Upgradeable contracts and good starter kit is now officially supported by LayerZero team: https://github.com/LayerZero-Labs/devtools/tree/main/examples/oft-upgradeable
+
 ## Upgradeable LayerZero V2 Foundry Starter Pack 🛠️🚀
 
 This repository can be cloned to quickly start building upgradeable applications on top of LayerZero V2. It includes libraries required for development, contains test setup and working multichain deployment script written in Solidity.
